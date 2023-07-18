@@ -1,0 +1,68 @@
+
+body {
+
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    padding: 20px;
+    font-display: fallback;
+  }
+  
+  
+  input, textarea, select {
+      display: block;
+      margin-bottom: 10px;/* gap between title other things  */
+      padding: 5px;
+      width: 98%;
+      padding: 8px;
+      font-size: 20px;
+      border-radius: 6px;
+      border: 2px navajowhite ;
+  
+      
+  }
+
+  button #log_out {
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: rgb(179, 225, 235);
+    color: #380f0f;
+    border: none;
+    border-radius: 10px;
+  }
+  
+  button, h1{
+      
+    padding: 10px 20px;
+      font-size: 20px;
+      color: #fff;
+      background-color: blueviolet;
+      border: none;
+      border-radius: 10px;
+    
+  }
+  
+  button:hover {
+    background-color: purple;
+    color:#fff;
+  }
+
+  .newtask {
+      
+      padding: 5px;
+      margin-bottom: 5px;
+      background-color:ghostwhite ;
+      width: 100%;
+      box-shadow: 0 2px 5px rgba(122, 10, 196, 0.831);
+      border-radius: 6px;
+      
+  }
+
+
+  .new{
+  background-color: blueviolet;
+  font-family:'Courier New', Courier, monospace, Monospace;
+  padding: 20px;
+  border-style:solid;
+  border-width: 7px;
+  margin-right: 70%;
+  }
